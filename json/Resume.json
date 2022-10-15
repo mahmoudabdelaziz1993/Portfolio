@@ -1,0 +1,276 @@
+{
+  "basics": {
+    "name": "Mahmoud Abdelaziz Salama",
+    "label": "Front End Developer - 4th",
+    "image": "/me.svg",
+    "email": "mahmoudabdelaziz1993@outlook.com",
+    "phone": "+201284878080",
+    "phone2": "+201006936354",
+    "url": "https://johndoe.com",
+    "summary": "Knowledgeable Web Developer brings superior designs to promote organization-specific website presence. Extensive collaboration with teams to oversee site creation from initial planning through roll out. Detail-oriented approach to maintaining website responsiveness, effectiveness and security. ",
+    "location": {
+      "address": " Akaba Ibn nafie St , Old Cairo",
+      "postalCode": " 11559",
+      "city": "Cairo",
+      "countryCode": "EG",
+      "region": "Giza"
+    },
+    "profiles": [
+      {
+        "network": "Github",
+        "username": "mahmoudabdelaziz1993",
+        "url": "https://bit.ly/3auoShk"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "mahmoud-abdelaziz-salama",
+        "url": "https://bit.ly/3GSkKUu"
+      },
+      {
+        "network": "Website",
+        "username": "mahmoud-abdelaziz-salama",
+        "url": "https://bit.ly/3zdpWR4"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "U100",
+      "position": "Front End Developer",
+      "url": "https://company.com",
+      "startDate": "2022-08-01",
+      "endDate": "Present",
+      "summary": "Description…",
+      "highlights": [
+        "Collaborated with stakeholders during development processes to confirm creative proposals and design best practices.",
+        "Produced websites compatible with multiple browsers. ",
+        "Liaised between marketing and IT on web development projects integrating front-end assets to back-end systems .",
+        "Researched emerging web technologies and trends for possible incorporation into sites ",
+        "Made recommendations for new technology integration based on suitability and alignment to business goals ."
+      ]
+    },
+    {
+      "name": "One Tech Group",
+      "position": "Front End Developer",
+      "url": "https://company.com",
+      "startDate": "2022-02-01",
+      "endDate": "2022-08-01",
+      "summary": "Description…",
+      "highlights": [
+        "Collaborated with stakeholders during development processes to confirm creative proposals and design best practices.",
+        "Produced websites compatible with multiple browsers. ",
+        "Liaised between marketing and IT on web development projects integrating front-end assets to back-end systems .",
+        "Researched emerging web technologies and trends for possible incorporation into sites ",
+        "Made recommendations for new technology integration based on suitability and alignment to business goals ."
+      ]
+    },
+    {
+      "name": "One Solution",
+      "position": "Front End Developer",
+      "url": "https://company.com",
+      "startDate": "2021-01-01",
+      "endDate": "2022-02-01",
+      "summary": "Description…",
+      "highlights": [
+        "Translated UX and business requirements into elegant code solutions ",
+        "Produced websites compatible with multiple browsers. ",
+        "Identified bottlenecks and bugs and devised solutions.",
+        "Assisted back end developers with troubleshooting and problem solving.",
+        "Coded using React.js , HTML, CSS ,Typescript and JavaScript to develop features for both mobile and desktop platforms "
+      ]
+    },
+    {
+      "name": "Sonesta",
+      "position": "Full Stack Developer - MERN",
+      "url": "https://company.com",
+      "startDate": "2019-08-01",
+      "endDate": "2020-10-01",
+      "summary": "Description…",
+      "highlights": [
+        "Built personal relationships with guests to promote positive experiences.",
+        "Collected and deposited payments from guests.",
+        "Developed and implemented performance improvement strategies and plans to promote continuous improvement. "
+      ]
+    },
+    {
+      "name": "Pay Me",
+      "position": "Front End Developer",
+      "url": "https://company.com",
+      "startDate": "2019-08-01",
+      "endDate": "2020-10-01",
+      "summary": "Description…",
+      "highlights": [
+        "Contributed ideas and suggestions in team meetings and delivered updates on deadlines, designs and enhancements .",
+        " Reviewed code, debugged problems and corrected issues.",
+        "Adjusted design parameters to incorporate new features .",
+        "Consulted with engineering team members to determine system loads and develop improvement plans.",
+        "Worked with back-end developers to design APIs In Node.js and Typescript."
+      ]
+    },
+    {
+      "name": "Zak Travel",
+      "position": "Co Founder",
+      "url": "https://company.com",
+      "startDate": "2018-04-01",
+      "endDate": "2018-10-01",
+      "summary": "Description…",
+      "highlights": [
+        "Established foundational processes for business operations",
+        "Recruited, interviewed and hired new staff members and developed training materials for employees. ",
+        "Evaluated suppliers to maintain cost controls and improve operations.",
+        "Developed innovative sales and marketing strategies to facilitate business expansion."
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Organization",
+      "position": "Volunteer",
+      "url": "https://organization.com/",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Description…",
+      "highlights": ["Awarded 'Volunteer of the Month'"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Menofia university",
+      "url": "https://institution.com/",
+      "area": "Computer Science",
+      "studyType": "Bachelor",
+      "startDate": "2011-01-01",
+      "endDate": "2016-01-01",
+      "score": "4.0",
+      "courses": ["DB1101 - Basic SQL"]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Award",
+      "date": "2014-11-01",
+      "awarder": "Company",
+      "summary": "There is no spoon."
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Certificate",
+      "date": "2021-11-07",
+      "issuer": "Company",
+      "url": "https://certificate.com"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Publication",
+      "publisher": "Company",
+      "releaseDate": "2014-10-01",
+      "url": "https://publication.com",
+      "summary": "Description…"
+    }
+  ],
+  "skills": [
+    {
+      "name": "HyperText Markup Language",
+      "level": "Master",
+      "keywords": ["HTML"]
+    },
+    {
+      "name": "Cascading Style Sheets",
+      "level": "Master",
+      "keywords": ["CSS"]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Master",
+      "keywords": ["JS", "ES6", "Node.js"]
+    },
+    {
+      "name": "TypeScript",
+      "level": "Master",
+      "keywords": ["Ts"]
+    },
+    {
+      "name": "JS Frameworks",
+      "level": "Master",
+      "keywords": ["React.js", "Next.js", " jQuery"]
+    },
+    {
+      "name": "CSS Frameworks",
+      "level": "Master",
+      "keywords": ["Bootstrap", "Materialize", "Tailwind CSS", "MUI"]
+    },
+    {
+      "name": "CSS Preprocessors",
+      "level": "Master",
+      "keywords": ["Sass", "LESS"]
+    },
+    {
+      "name": "Back end JS Frameworks",
+      "level": "Master",
+      "keywords": ["Node.js", "Express.js", "Next.js", " Firebase", "Subabase"]
+    },
+    {
+      "name": "Search Engine Optimization",
+      "level": "Master",
+      "keywords": ["SEO", "SSR", "SSG"]
+    },
+    {
+      "name": "Agile Methodology",
+      "level": "Master",
+      "keywords": ["SCRUM"]
+    },
+    {
+      "name": "Responsive Design & Mobile-First Websites",
+      "level": "Master",
+      "keywords": []
+    },
+    {
+      "name": "Time Management",
+      "level": "Master",
+      "keywords": []
+    },
+    {
+      "name": "Critical Thinking Skills",
+      "level": "Master",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Intermediate speaker"
+    },
+    {
+      "language": "Arabic",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Wildlife",
+      "keywords": ["Ferrets", "Unicorns"]
+    }
+  ],
+  "references": [
+    {
+      "name": "Jane Doe",
+      "reference": "Reference…"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Project",
+      "description": "Description…",
+      "highlights": ["Won award at AIHacks 2016"],
+      "keywords": ["HTML"],
+      "startDate": "2019-01-01",
+      "endDate": "2021-01-01",
+      "url": "https://project.com/",
+      "roles": ["Team Lead"],
+      "entity": "Entity",
+      "type": "application"
+    }
+  ]
+}
